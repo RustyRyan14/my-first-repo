@@ -7,7 +7,7 @@ Created on Thu Oct  8 08:39:33 2020
 """
 
 def func(a,b):
-    return a + b 
+    return a * b 
 
 def funct(b):
     return b 
